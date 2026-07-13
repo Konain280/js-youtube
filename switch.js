@@ -5,7 +5,7 @@ switch(day){
         console.log("Start of the work week hehehehe");
         break;      
     case "Tuesday":
-        console.log("Second day of the work week");
+        console.log("Second day of the work week hahahahahahahahaa");
         break;
     case "Wednesday":
         console.log("Midweek day");
