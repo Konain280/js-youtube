@@ -1,7 +1,7 @@
 let day=prompt("Enter a day of the week :");
 switch(day){
-    case "Monday is a good day":
-        console.log("Start of the work week");
+    case "Monday":
+        console.log("Start of the work week Hello world");
         break;      
     case "Tuesday":
         console.log("Second day of the work week");
