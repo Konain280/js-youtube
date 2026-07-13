@@ -5,7 +5,11 @@ switch(day){
         console.log("Start of the work week hehehehe");
         break;      
     case "Tuesday":
+<<<<<<< Updated upstream
         console.log("Second day of the work week hahahahahahahahaa");
+=======
+        console.log("Second day of the work week wefhuweneufhewufuewhuehuwh");
+>>>>>>> Stashed changes
         break;
     case "Wednesday":
         console.log("Midweek day");
